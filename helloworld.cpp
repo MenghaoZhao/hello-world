@@ -2,5 +2,5 @@
 using namespace std;
 int main(){
   cout<<"hello world in testing"<<endl;
-  cout<<"this is master, not pushremote"<<endl;
+  cout<<"this is pushremote"<<endl;
   }
